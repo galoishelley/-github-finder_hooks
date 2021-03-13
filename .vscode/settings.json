@@ -1,0 +1,16 @@
+{
+    "editor.tabSize": 2,
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": null,
+    "workbench.colorCustomizations": {
+        "[Kimbie Dark]": {}
+    },
+    "workbench.preferredHighContrastColorTheme": "Abyss",
+    "workbench.preferredLightColorTheme": "Abyss",
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "editor.fontLigatures": null,
+    "editor.fontFamily": "Fira Code ,Consolas, 'Courier New', monospace"
+}
